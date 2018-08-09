@@ -1,0 +1,59 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.Pemenang{
+  width: 40%;
+  margin-right: 4%;
+}
+
+.buttonPem{
+  width: 40%;
+  font-size: 12px;
+  font-weight: bold;
+  height: 31px;
+}
+
+.buttonDaf{
+  width: 10%;
+  margin-bottom: 50px;
+}
+
+p.card-text{
+  font-size: 20px;
+  text-align: center;
+}
+
+.box input{
+  padding: 1px 1px 1px 10px;
+}
+.card-header center{
+  font-size: 15px;
+  font-weight: bold;
+}
